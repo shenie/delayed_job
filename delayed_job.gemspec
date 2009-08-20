@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.summary  = "Database-backed asynchronous priority queue system -- Extracted from Shopify"
   s.email    = "tobi@leetsoft.com"
   s.homepage = "http://github.com/tobi/delayed_job/tree/master"
-  s.description = "Delated_job (or DJ) encapsulates the common pattern of asynchronously executing longer tasks in the background. It is a direct extraction from Shopify where the job table is responsible for a multitude of core tasks."
+  s.description = "Delayed_job (or DJ) encapsulates the common pattern of asynchronously executing longer tasks in the background. It is a direct extraction from Shopify where the job table is responsible for a multitude of core tasks."
   s.authors  = ["Tobias Lütke"]
 
   # s.bindir = "bin"
